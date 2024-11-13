@@ -10,6 +10,7 @@
 
   <modules>
     <module>common-lib</module>
+    <module>apartments-api</module>
     <module>apartments</module>
   </modules>
 
