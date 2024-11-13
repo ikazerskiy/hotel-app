@@ -10,16 +10,7 @@
 
   <modules>
     <module>common-lib</module>
+    <module>apartments</module>
   </modules>
-
-  <dependencyManagement>
-    <dependencies>
-      <dependency>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter</artifactId>
-        <version>3.1.1</version>
-      </dependency>
-    </dependencies>
-  </dependencyManagement>
 
 </project>
