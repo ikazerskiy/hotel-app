@@ -1,4 +1,4 @@
-package app.hotel.apartments.api.dto;
+package app.hotel.apartments.api;
 
 public enum Status {
   READY,

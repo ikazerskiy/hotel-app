@@ -75,6 +75,11 @@
 			<artifactId>common-lib</artifactId>
 			<version>1.0</version>
 		</dependency>
+		<dependency>
+			<groupId>app.hotel</groupId>
+			<artifactId>apartments-api</artifactId>
+			<version>1.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>
